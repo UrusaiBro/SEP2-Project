@@ -1,3 +1,1 @@
-# SEP2-Project
-SEP2-GRP10
-TESTING
+This is a School projet to create a system that supports multyplayer board games.

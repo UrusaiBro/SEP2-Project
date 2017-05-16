@@ -15,12 +15,7 @@ public class Mark implements PlayingPiece{
 		return type;
 	}
 	
-	public void setCoordinates(int[] coordinates){
-		this.coordinates=coordinates;
-	}
-	public void setType(String type){
-		this.type=type;
-	}
+	
 	
 		
 }

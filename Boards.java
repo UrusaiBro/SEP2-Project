@@ -1,5 +1,8 @@
-public interface Boards 
-{
+
+public interface Board {
+	
 	public void endTurn();
-	public PlayingPiece interact(int x, int y);
+	public PlayingPiece interact(int[] coordinates);
+
 }
+

@@ -1,4 +1,4 @@
-public class TicTacToe implements Boards{
+public class TicTacToe implements Board{
 
 	private PlayingPiece[][] board;
 	

@@ -8,9 +8,12 @@ public class Mark implements PlayingPiece{
 		this.type=type;
 	}
 	
+	@Override
 	public int[] getCoordinates(){
 		return coordinates;
 	}
+	
+	@Override
 	public String getType(){
 		return type;
 	}
